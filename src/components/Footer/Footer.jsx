@@ -1,4 +1,5 @@
 import React from "react";
+import logo from '../../assets/logo.png'
 import {
   FaFacebook,
   FaInstagram,
@@ -32,9 +33,9 @@ const Footer = () => {
         <div className=" grid md:grid-cols-3 py-5">
           {/* company Details */}
           <div className=" py-8 px-4 ">
-            <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3 font-serif">
-              Car Rental
-            </h1>
+            <a href="#" className="logo">
+              <img src={logo} width="80" height="50" alt="EduWeb logo" />
+            </a>
             <p className="text-sm">
               Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
               consectetur adipisicing elit. Possimus, voluptate.{" "}
@@ -96,7 +97,7 @@ const Footer = () => {
             <div className="">
               <div className="py-8 px-4 ">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
-                Links
+                  Links
                 </h1>
                 {/* <ul className="list-disc list-inside"> */}
                 <ul className="flex flex-col gap-3">

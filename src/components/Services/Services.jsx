@@ -5,30 +5,30 @@ import { SlNote } from "react-icons/sl";
 
 const skillsData = [
   {
-    name: "Best Price",
+    name: "Wide Vehicle Selection",
     icon: (
       <FaCameraRetro className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Choose from a diverse range of vehicles.",
     aosDelay: "0",
   },
   {
-    name: "Fast and Safe",
+    name: "Reliable Service",
     icon: (
       <GiNotebook className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Dependable support for all your travel needs.",
     aosDelay: "500",
   },
   {
-    name: "Experience Drivers",
+    name: "Competitive Pricing",
     icon: (
       <SlNote className="text-5xl text-primary group-hover:text-black duration-500" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Affordable rates without compromising quality.",
     aosDelay: "1000",
   },
 ];

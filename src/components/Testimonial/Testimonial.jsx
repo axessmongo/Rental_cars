@@ -2,21 +2,21 @@ import React from "react";
 
 const testimonialData = [
   {
-    name: "Dilshad",
+    name: "Anjali S",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Smooth booking process and great cars. Highly recommend Velocity Car Rentals!",
     aosDelay: "0",
   },
   {
-    name: "Satya",
+    name: "Rajesh P",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Excellent service, clean cars, and friendly staff. Always my first choice.",
     aosDelay: "300",
   },
   {
-    name: "Sabir",
+    name: "Priya R",
     image: "",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Reliable and affordable. Made my trip hassle-free. Will rent again!",
     aosDelay: "1000",
   },
 ];

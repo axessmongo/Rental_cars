@@ -22,13 +22,14 @@ const About = () => {
                 About us
               </h1>
               <p data-aos="fade-up" className="leading-8 tracking-wide">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Aspernatur, magnam! Tenetur odio quo et maxime?
+                At Velocity Car Rentals, we pride ourselves on delivering exceptional service and a diverse fleet
+                to suit all travel needs. With a commitment to reliability and customer satisfaction, we ensure
+                each journey is smooth and memorable for our clients.
               </p>
-              <p data-aos="fade-up">
+              {/* <p data-aos="fade-up">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
                 tempora.
-              </p>
+              </p> */}
               <button data-aos="fade-up" className="button-outline">
                 Get Started
               </button>
