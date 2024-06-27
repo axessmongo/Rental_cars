@@ -7,18 +7,18 @@ import logo from '../../assets/logo.png'
 export const Navlinks = [
   {
     id: 1,
-    name: "HOME",
+    name: "Home",
     link: "/#",
   },
   {
-    id: 2,
-    name: "CARS",
-    link: "/#cars",
+    id: 1,
+    name: "About",
+    link: "/#about",
   },
   {
     id: 1,
-    name: "ABOUT",
-    link: "/#about",
+    name: "Why Choose Us",
+    link: "/#whychoose",
   },
   {
     id: 1,

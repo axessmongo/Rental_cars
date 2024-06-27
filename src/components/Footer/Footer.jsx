@@ -36,10 +36,10 @@ const Footer = () => {
             <a href="#" className="logo">
               <img src={logo} width="80" height="50" alt="EduWeb logo" />
             </a>
-            <p className="text-sm">
+            {/* <p className="text-sm">
               Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
               consectetur adipisicing elit. Possimus, voluptate.{" "}
-            </p>
+            </p> */}
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
