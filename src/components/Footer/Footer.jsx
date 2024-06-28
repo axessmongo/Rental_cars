@@ -18,11 +18,11 @@ const FooterLinks = [
     link: "/#about",
   },
   {
-    title: "Contact",
+    title: "Why Choose Us",
     link: "/#contact",
   },
   {
-    title: "Cars",
+    title: "Booking",
     link: "/#cars",
   },
 ];
