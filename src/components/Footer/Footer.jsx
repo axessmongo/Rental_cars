@@ -10,20 +10,24 @@ import {
 
 const FooterLinks = [
   {
-    title: "Home",
-    link: "/#",
+    title: "Toyota",
+    // link: "/#",
   },
   {
-    title: "About",
-    link: "/#about",
+    title: "Mahindra",
+    // link: "/#about",
   },
   {
-    title: "Why Choose Us",
-    link: "/#contact",
+    title: "Maruti Suzuki",
+    // link: "/#contact",
   },
   {
-    title: "Booking",
-    link: "/#cars",
+    title: "Kia",
+    // link: "/#cars",
+  },
+  {
+    title: "MG Motor",
+    // link: "/#cars",
   },
 ];
 const Footer = () => {
@@ -97,7 +101,7 @@ const Footer = () => {
             <div className="">
               <div className="py-8 px-4 ">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
-                  Links
+                  Brands
                 </h1>
                 {/* <ul className="list-disc list-inside"> */}
                 <ul className="flex flex-col gap-3">
