@@ -26,8 +26,8 @@ const AppStoreBanner = () => {
             >
               Get Started with our Service
             </h1>
-            <p data-aos="fade-up" className="text-center sm:px-20">
-              …and experience seamless journeys with Velocity Car Rentals today!
+            <p data-aos="fade-up" className="text-center  sm:px-20">
+              Experience Seamless Journeys With Velocity Car Rentals T  oday!
             </p>
             <div
               data-aos="fade-up"

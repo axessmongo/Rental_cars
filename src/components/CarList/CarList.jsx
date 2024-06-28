@@ -33,11 +33,12 @@ const CarList = () => {
           data-aos="fade-up"
           className="text-3xl sm:text-4xl font-semibold font-serif mb-3"
         >
-        Bookings
+          Bookings
         </h1>
         <p data-aos="fade-up" aos-delay="400" className="text-sm pb-10">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor iure
-          nemo ab?
+          Enjoy the freedom to explore with our diverse fleet, including
+          economy, sedans, SUVs, luxury vehicles, and vans. Easy booking
+          process: search, choose, reserve, and pick up.
         </p>
         {/* Car listing */}
         <div>

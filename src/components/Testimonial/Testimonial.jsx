@@ -4,19 +4,22 @@ const testimonialData = [
   {
     name: "Anjali S",
     image: "",
-    description: "Smooth booking process and great cars. Highly recommend Velocity Car Rentals!",
+    description:
+      "Smooth booking process and great cars. Highly recommend Velocity Car Rentals!",
     aosDelay: "0",
   },
   {
     name: "Rajesh P",
     image: "",
-    description: "Excellent service, clean cars, and friendly staff. Always my first choice.",
+    description:
+      "Excellent service, clean cars, and friendly staff. Always my first choice.",
     aosDelay: "300",
   },
   {
     name: "Priya R",
     image: "",
-    description: "Reliable and affordable. Made my trip hassle-free. Will rent again!",
+    description:
+      "Reliable and affordable. Made my trip hassle-free. Will rent again!",
     aosDelay: "1000",
   },
 ];
@@ -35,8 +38,13 @@ const Testimonial = () => {
               What Our Clients Say About Us
             </p>
             <p data-aos="fade-up" className="text-center sm:px-44">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Perferendis iure consectetur tempora amet.
+              A car rental, hire car or car hire agency is a company that rents
+              automobiles for short periods of time to the public, generally
+              ranging from a few hours to a few weeks. It is often organized
+              with numerous local branches (which allow a user to return a
+              vehicle to a different location), and primarily located near
+              airports or busy city areas and often complemented by a website
+              allowing online reservations.
             </p>
           </div>
 
