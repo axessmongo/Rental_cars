@@ -49,10 +49,10 @@ const Footer = () => {
               <FaLocationArrow />
               <p>Chennai</p>
             </div>
-            <div className="flex items-center gap-3 mt-3">
+            {/* <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
               <p>+91 123456789</p>
-            </div>
+            </div> */}
             {/* Social Handle */}
             <div className="flex items-center gap-3 mt-6">
               <a href="#">
